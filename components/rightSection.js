@@ -326,5 +326,4 @@ export default function RightSection({
             <Spacer height={'2rem'} />
 
         </section>
-    )
-}
+    )}
